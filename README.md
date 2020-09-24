@@ -143,7 +143,7 @@
 
 ## 六、Kafka
 
-1. [讲一下 kafka 的架构](./docs/讲一下kafka的架构.md)
+1. 讲一下 kafka 的架构
 
 2. [kafka 与其他消息组件对比?](./docs/kafka与其他消息组件对比.md)
 
